@@ -231,7 +231,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 **Tu Nombre**
 - GitHub: [GianSandoval5](https://github.com/GianSandoval5)
 - LinkedIn: [Gian Sandoval](https://linkedin.com/in/giansandoval)
-- Email: tu.email@ejemplo.com
+- Email: gsandoval@flupione.com - gsandoval@flutterpiura.com
 
 ---
 
